@@ -157,7 +157,7 @@
               </choose>
               <text variable="page"/>
             </group>
-            <text variable="DOI" prefix="[http://dx.do.org/" suffix="]"/>
+            <text variable="DOI" prefix="[http://dx.doi.org/" suffix="]"/>
             <text variable="PMID" prefix="[PMID: " suffix="]"/>
           </group>
         </if>
