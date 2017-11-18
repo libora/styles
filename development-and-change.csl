@@ -285,10 +285,6 @@
               <text variable="container-title" font-style="italic" text-case="title"/>
               <text variable="collection-title" text-case="title"/>
             </group>
-            <group prefix=", ">
-              <label variable="page" form="short" suffix=" "/>
-              <text variable="page"/>
-            </group>
           </group>
         </group>
         <text macro="locators"/>
